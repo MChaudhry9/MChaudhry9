@@ -1,7 +1,9 @@
-# Software Engineering, Data Science, AI.
-## Programming Languages
+- Software Engineering
+- Data Science
+- Front-end Development
+### Programming Languages
 - C++, HTML, CSS, Javascript, PHP, SQL, Python, R 
-### mamunachaudhry9@gmail.com
+#### mamunachaudhry9@gmail.com
 
 <!---
 MChaudhry9/MChaudhry9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
