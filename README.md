@@ -1,9 +1,7 @@
-- Software Engineering
-- Data Science
-- Front-end Development
-### Programming Languages
+# Computer Science Undergraduate Student
+## Programming Languages
 - C++, HTML, CSS, Javascript, PHP, SQL, Python, R
-### Contact
+## Contact
 - mamunachaudhry9@gmail.com
 <!---
 - [Linkedin](https://www.linkedin.com/in/mamuna-chaudhry/)
