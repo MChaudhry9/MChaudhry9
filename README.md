@@ -1,6 +1,6 @@
 # Computer Science Undergraduate Student
 ## Programming Languages
-- C++, HTML, CSS, Javascript, PHP, SQL, Python, R
+- Python, C++, Java, HTML, CSS, Javascript, PHP, SQL, R
 ## Contact
 - mamunachaudhry9@gmail.com
 <!---
