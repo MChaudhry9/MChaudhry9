@@ -1,4 +1,4 @@
-# Computer Science Undergraduate Student
+# Computer Science, Data Science, Software Engineering
 ## Programming Languages
 - Python, C++, Java, HTML, CSS, Javascript, PHP, SQL, R
 ## Contact
