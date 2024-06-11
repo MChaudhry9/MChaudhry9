@@ -1,4 +1,5 @@
-# Software Engineering ~ Data Science ~ Computer Science
+# Software Engineering ~ Data Science 
+<!---~ Computer Science--->
 ## Programming Languages
 - Python, C++, Java, HTML, CSS, Javascript, PHP, SQL, R
 ## Contact
