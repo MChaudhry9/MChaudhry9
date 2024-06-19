@@ -1,7 +1,10 @@
-# Software Engineering ~ Data Science 
+# Software Engineering ~ Data Science ~ AI/ML
+## Currently exploring Computer Vision
 <!---~ Computer Science--->
+<!---
 ## Programming Languages
 - Python, C++, Java, HTML, CSS, Javascript, PHP, SQL, R
+--->
 ## Contact
 - mamunachaudhry9@gmail.com
 <!---
