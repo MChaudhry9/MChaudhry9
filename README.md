@@ -1,5 +1,5 @@
 # Software Engineering ~ Data Science ~ AI/ML
-## Currently exploring Computer Vision
+## Currently exploring Computer Vision and working on a personal software project
 <!---~ Computer Science--->
 <!---
 ## Programming Languages
