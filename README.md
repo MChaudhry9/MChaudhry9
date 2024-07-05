@@ -7,6 +7,7 @@
 --->
 ## Contact
 - mamunachaudhry9@gmail.com
+- mchaudh001@citymail.cuny.edu
 <!---
 - [Linkedin](https://www.linkedin.com/in/mamuna-chaudhry/)
 --->
