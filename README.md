@@ -5,6 +5,8 @@
 ## Programming Languages
 - Python, C++, Java, HTML, CSS, Javascript, PHP, SQL, R
 --->
+![GitHub Pro](https://img.shields.io/badge/GitHub-Pro-purple?logo=github&style=flat-square)
+
 ## My Website
 - [mchaudhry.me](http://mchaudhry.me)
 ## Contact
