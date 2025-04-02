@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://github.com/MChaudhry9/MChaudhry9/blob/main/header.gif" alt="Header GIF">
+  <img src="https://github.com/MChaudhry9/MChaudhry9/blob/main/header2.gif" alt="Header GIF">
 </p>
-
 
 <div align="center">
   <h1>Hi 👋, I'm Mamuna</h1>
