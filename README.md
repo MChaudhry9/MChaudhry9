@@ -1,26 +1,26 @@
-# Software Engineering ~ Data Science ~ AI/ML
-<!---~ ## Currently exploring Computer Vision and working on a personal software project--->
-<!---~ Computer Science--->
-<!---
-## Programming Languages
-- Python, C++, Java, HTML, CSS, Javascript, PHP, SQL, R
---->
-![GitHub Pro](https://img.shields.io/badge/GitHub-Pro-purple?logo=github&style=flat-square)
+<p align="center">
+  <img src="https://github.com/MChaudhry9/MChaudhry9/blob/main/header.gif" alt="Header GIF">
+</p>
 
-## My Website
-- [mchaudhry.me](http://mchaudhry.me)
-## Contact
-- mamunachaudhry9@gmail.com
-- mchaudh001@citymail.cuny.edu
-<!---
-- [Linkedin](https://www.linkedin.com/in/mamuna-chaudhry/)
---->
-<!---
-MChaudhry9/MChaudhry9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MChaudhry9&show_icons=true&theme=radical)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MChaudhry9&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MChaudhry9&theme=tokyonight)
+
+<div align="center">
+  <h1>Hi 👋, I'm Mamuna</h1>
+  <h3>Fullstack Developer</h3>
+  <strong>CS @ CCNY</strong>
+</div>
+
+## About me  
+➤ **Based In:** New York City  
+➤ Visit my [Website](http://mchaudhry.me)  
+➤ Look at my [Resume](https://docs.google.com/document/d/1gbqljwlL8Vq44SkodraMZm5Pw0VZBjDyE_TQ3c5zRqc/edit?usp=drive_link)  
+➤ Check out my [LinkedIn](https://www.linkedin.com/in/mamuna-chaudhry/)  
+➤ **Contact me:** [mamunachaudhry9@gmail.com](mailto:mamunachaudhry9@gmail.com)  
+
+#### Mamuna's Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MChaudhry9&layout=compact)  
+
+#### Mamuna's GitHub Streak  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MChaudhry9&theme=tokyonight)  
+
 
 
