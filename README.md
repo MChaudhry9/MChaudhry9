@@ -11,7 +11,7 @@
 ## About me  
 ➤ **Based In:** New York City  
 ➤ Visit my [Website](http://mchaudhry.me)  
-➤ Look at my [Resume](https://docs.google.com/document/d/1gbqljwlL8Vq44SkodraMZm5Pw0VZBjDyE_TQ3c5zRqc/edit?usp=drive_link)  
+➤ Look at my [Resume](https://drive.google.com/file/d/1zo4hTXDdqVW6Zz6KPEnHa8Yan41IZeRc/view?usp=sharing)
 ➤ Check out my [LinkedIn](https://www.linkedin.com/in/mamuna-chaudhry/)  
 ➤ **Contact me:** [mamunachaudhry9@gmail.com](mailto:mamunachaudhry9@gmail.com)  
 
