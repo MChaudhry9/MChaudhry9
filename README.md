@@ -2,11 +2,11 @@
   <img width="18%" margin="0" padding="0" src="https://github.com/MChaudhry9/MChaudhry9/blob/main/header2.gif" alt="Header GIF">
 </p>
 
-<h2 align="center">
+<h3 align="center">
     Hi 👋, I'm Mamuna 
     </br> 
     Software Engineer </br> CS <a align="center" href="https://www.ccny.cuny.edu/" target="_blank"> @CCNY </a>
-</h2>
+</h3>
 
 
 <!-- ABOUT ME -->
