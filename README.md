@@ -37,15 +37,15 @@ Currently pursuing a B.S. in Computer Science, I focus on hands-on development a
   Promoting data transparency and smarter decision-making.
 making.
 
-- 💻 [**E-Bidding Platform**](https://github.com/MChaudhry9/ecom-bidding-csc322)
+- 💻 [**E-Bidding Platform**](https://github.com/MChaudhry9/ecom-bidding-csc322) <br>
   A secure online bidding platform where users can list items, place bids, and complete transactions.  
   Built with multiple user roles (e.g., Registered Users, Super Users, VIPs) and includes features like bot-prevention, complaint handling, user ratings, and live bidding sessions. Designed to simulate real-world auction dynamics while maintaining data integrity and user accountability.
 
-- 📦 [**Inventory Management App**](https://github.com/MChaudhry9/inventory-management-app)
+- 📦 [**Inventory Management App**](https://github.com/MChaudhry9/inventory-management-app) <br>
   A modern web app for tracking, updating, and managing inventory across categories.  
   Built using **Next.js + React** for a responsive UI, **Material UI** for sleek component styling, and **Firebase** for real-time data syncing and authentication. The app provides a clean interface to add, edit, and manage items, and is ideal for small businesses or personal inventory tracking.
 
-- 🧠 [**Towers of Hanoi Visualizer**](https://github.com/MChaudhry9/Towers-of-Hanoi_Frontend_GUI)
+- 🧠 [**Towers of Hanoi Visualizer**](https://github.com/MChaudhry9/Towers-of-Hanoi_Frontend_GUI) <br>
   A visual and interactive Python-based implementation of the classic recursive problem.  
   Uses recursion to move disks between pegs while displaying each step in the terminal or GUI, making it easier for beginners to grasp recursion and problem-solving logic. Serves as both a learning tool and algorithm visualizer.
   
