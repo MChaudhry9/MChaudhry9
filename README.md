@@ -5,8 +5,7 @@
 
 <div align="center">
   <h1>Hi 👋, I'm Mamuna</h1>
-  <h3>Software Engineer</h3>
-  <h3>CS @ <a align="center" href="https://www.ccny.cuny.edu/" target="_blank"> @CCNY </a></h3>
+  <h3>Software Engineer </br> CS <a align="center" href="https://www.ccny.cuny.edu/" target="_blank"> @CCNY </a> </h3>
 </div>
 
 <!-- ABOUT ME -->
