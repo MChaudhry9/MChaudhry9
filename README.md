@@ -30,7 +30,7 @@ Currently pursuing a B.S. in Computer Science, I focus on hands-on development a
 - 🦮 [**Buddy Walk**](https://github.com/tort8678/contextual_vlm)  
   A vision-assistance mobile app designed to support Blind & Low Vision (BLV) users. Combines AI, computer vision, and Google Maps APIs to provide real-time contextual information (e.g.,   surroundings, landmarks, directions) through voice-based interaction. The app responds to a variety of user queries—whether from images or videos captured by the user or from navigation-related questions—delivering precise, accessible answers that help users better understand their environment. By integrating multiple data sources and interactive feedback, it focuses on making independent travel safer and more accessible for BLV users.
 
-- 🏙️ [**PropertyIntel:Uncover Hidden Real Estate Insights**](https://github.com/MChaudhry9/PropertyIntel-A-Real-Estate-App)  
+- 🏙️ [**PropertyIntel: Uncover Hidden Real Estate Insights**](https://github.com/MChaudhry9/PropertyIntel-A-Real-Estate-App)  
   A full-stack web app to uncover real-time NYC building complaints and violations for properties across NYC.  
   Transforms underutilized data from NYC Department of Building (DOB) into an intuitive, map-based interface using search filters for zip code, building identification number (BIN), and    address. Helps everyday New Yorkers, renters, and real estate professionals uncover hidden issues in all kinds of properties, ranging from residential, commercial and more.
   Promoting data transparency and smarter decision-making.
