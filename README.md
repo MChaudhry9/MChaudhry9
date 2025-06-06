@@ -23,8 +23,8 @@ Currently pursuing a B.S. in Computer Science, I focus on hands-on development a
 ## <img src="https://cdn3.emoji.gg/emojis/3863_gearz.gif" width="25" height="25"/> Technical Skills
 - **Languages:** Python, Javascript, SQL, Java, C++, Typescript
 - **Frameworks & Libraries:** React.js, Flask, Node.js, Tailwind CSS, Pandas, NumPy, Matplotlib, Seaborn, NetworkX, Material UI
-- **Skills & Technologies:** Unix/Linux, HTML/CSS, Git, GitHub Actions, PyCharm, VS Code, EclipseIDE, MySQL, MongoDB, Figma, Linux, Vercel, Jupyter, Google Analytics
-- **Domains of Interest:** Web Development, Data Science, Machine Learning (in-progress)
+- **Skills & Technologies:** Unix/Linux, HTML/CSS, Git, GitHub Actions, PyCharm, VS Code, EclipseIDE, MySQL, MongoDB, Figma, Vercel, Jupyter, Google Analytics
+- **Domains of Interest:** Web & Software Development, Data Science, Machine Learning (in-progress)
 
 <!-- PROJECTS -->
 ## <img src="https://media3.giphy.com/media/KEH88lBIcTeIH62Mhx/giphy.gif?cid=6c09b952dtpdgpdbimkizhohtrsibf72qq0fbdwqqsws1m81&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="25" height="25"/> Notable Projects
@@ -45,8 +45,8 @@ making.
   A modern web app for tracking, updating, and managing inventory across categories.  
   Built using **Next.js + React** for a responsive UI, **Material UI** for sleek component styling, and **Firebase** for real-time data syncing and authentication. The app provides a clean interface to add, edit, and manage items, and is ideal for small businesses or personal inventory tracking.
 
-- 🧠 [**Towers of Hanoi Visualizer**](https://github.com/MChaudhry9/Towers-of-Hanoi_Frontend_GUI) <br>
-  A visual and interactive Python-based implementation of the classic recursive problem.  
+- 🧠 [**Towers of Hanoi Puzzle**](https://github.com/MChaudhry9/Towers-of-Hanoi_Frontend_GUI) <br>
+  A visual and interactive Java-based implementation of the classic recursive problem.  
   Uses recursion to move disks between pegs while displaying each step in the terminal or GUI, making it easier for beginners to grasp recursion and problem-solving logic. Serves as both a learning tool and algorithm visualizer.
   
 #### Mamuna's Top Languages  
