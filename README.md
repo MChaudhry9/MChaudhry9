@@ -48,6 +48,11 @@ making.
 - 🧠 [**Towers of Hanoi Puzzle**](https://github.com/MChaudhry9/Towers-of-Hanoi_Frontend_GUI) <br>
   A visual and interactive Java-based implementation of the classic recursive problem.  
   Uses recursion to move disks between pegs while displaying each step in the terminal or GUI, making it easier for beginners to grasp recursion and problem-solving logic. Serves as both a learning tool and algorithm visualizer.
+
+- 🚗 [**Westcoast Classics**](https://github.com/MChaudhry9/WESTCOAST.CLASSICS) <br>
+  A sleek, modern automobile shopping website built with **javascript** that allows users to register or log in and browse a curated selection of popular cars.  
+  The platform offers a smooth, user-friendly experience with easy navigation and access to vehicle listings, making car shopping simple and efficient.
+
   
 #### Mamuna's Top Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MChaudhry9&layout=compact)  
