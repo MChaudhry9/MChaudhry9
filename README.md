@@ -24,12 +24,26 @@ Currently pursuing a B.S. in Computer Science, I focus on hands-on development a
 - **Frameworks & Libraries:** React.js, Flask, Node.js, Tailwind CSS, Pandas, NumPy, Matplotlib, Seaborn, NetworkX, Material UI
 - **Skills & Technologies:** Unix/Linux, HTML/CSS, Git, GitHub Actions, PyCharm, VS Code, EclipseIDE, MySQL, MongoDB, Figma, Linux, Vercel, Jupyter, Google Analytics
 - **Domains of Interest:** Web Development, Data Science, Machine Learning (in-progress)
+
+<!-- PROJECTS -->
+## <img src="https://media3.giphy.com/media/KEH88lBIcTeIH62Mhx/giphy.gif?cid=6c09b952dtpdgpdbimkizhohtrsibf72qq0fbdwqqsws1m81&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="25" height="25"/> Notable Projects
+- 🦮 [**Buddy Walk**](https://github.com/MChaudhry9/Buddy-Walk)  
+  A vision-assistance mobile app designed to support Blind & Low Vision (BLV) users. Combines AI, computer vision, and Google Maps APIs to provide real-time contextual information (e.g.,   surroundings, landmarks, directions) through voice-based interaction. The app responds to a variety of user queries—whether from images or videos captured by the user or from navigation-related questions—delivering precise, accessible answers that help users better understand their environment. By integrating multiple data sources and interactive feedback, it focuses on making independent travel safer and more accessible for BLV users.
+
+- 🏙️ [**PropertyIntel**](https://github.com/MChaudhry9/PropertyIntel)  
+  A full-stack web app to uncover real-time NYC building complaints and violations for properties across NYC.  
+  Transforms underutilized data from NYC Department of Building (DOB) into an intuitive, map-based interface using search filters for zip code, building identification number (BIN), and    address. Helps everyday New Yorkers, renters, and real estate professionals uncover hidden issues in all kinds of properties, ranging from residential, commercial and more.
+  Promoting data transparency and smarter decision-making.
+
   
 #### Mamuna's Top Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MChaudhry9&layout=compact)  
 
 #### Mamuna's GitHub Streak  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MChaudhry9&theme=tokyonight)  
+<!--
+![Mamuna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MChaudhry9&show_icons=true&theme=tokyonight)
+-->
 
 
 
