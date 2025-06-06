@@ -37,7 +37,7 @@ Currently pursuing a B.S. in Computer Science, I focus on hands-on development a
   Promoting data transparency and smarter decision-making.
 making.
 
-- 💻 [**E-Bidding Platform**](https://github.com/MChaudhry9/ecom-bidding-csc322) <br>
+- 💻 [**SweBay: An E-Bidding Platform**](https://github.com/MChaudhry9/ecom-bidding-csc322) <br>
   A secure online bidding platform where users can list items, place bids, and complete transactions.  
   Built with multiple user roles (e.g., Registered Users, Super Users, VIPs) and includes features like bot-prevention, complaint handling, user ratings, and live bidding sessions. Designed to simulate real-world auction dynamics while maintaining data integrity and user accountability.
 
