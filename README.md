@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>Hi 👋, I'm Mamuna</h1>
-  <h3>Fullstack Developer</h3>
+  <h3>Software Engineer</h3>
   <strong>CS @ CCNY</strong>
 </div>
 
