@@ -21,7 +21,7 @@ Currently pursuing a B.S. in Computer Science, I focus on hands-on development a
 <!-- TECHNICAL SKILLS -->
 ## <img src="https://cdn3.emoji.gg/emojis/3863_gearz.gif" width="25" height="25"/> Technical Skills
 - **Languages:** Python, Javascript, SQL, Java, C++, Typescript
-- **Frameworks & Libraries:** React.js, Flask, Next.js, Tailwind CSS, NodeJS, Pandas, NumPy, Matplotlib, Seaborn, NetworkX, Material UI
+- **Frameworks & Libraries:** React.js, Flask, Node.js, Tailwind CSS, Pandas, NumPy, Matplotlib, Seaborn, NetworkX, Material UI
 - **Skills & Technologies:** Unix/Linux, HTML/CSS, Git, GitHub Actions, PyCharm, VS Code, EclipseIDE, MySQL, MongoDB, Figma, Linux, Vercel, Jupyter, Google Analytics
 - **Learning:** Web Development, Data Science, Machine Learning (in-progress)
   
