@@ -23,7 +23,7 @@ Currently pursuing a B.S. in Computer Science, I focus on hands-on development a
 - **Languages:** Python, Javascript, SQL, Java, C++, Typescript
 - **Frameworks & Libraries:** React.js, Flask, Node.js, Tailwind CSS, Pandas, NumPy, Matplotlib, Seaborn, NetworkX, Material UI
 - **Skills & Technologies:** Unix/Linux, HTML/CSS, Git, GitHub Actions, PyCharm, VS Code, EclipseIDE, MySQL, MongoDB, Figma, Linux, Vercel, Jupyter, Google Analytics
-- **Learning:** Web Development, Data Science, Machine Learning (in-progress)
+- **Domains of Interest:** Web Development, Data Science, Machine Learning (in-progress)
   
 #### Mamuna's Top Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MChaudhry9&layout=compact)  
