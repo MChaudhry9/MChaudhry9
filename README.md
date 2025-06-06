@@ -2,11 +2,12 @@
   <img width="18%" margin="0" padding="0" src="https://github.com/MChaudhry9/MChaudhry9/blob/main/header2.gif" alt="Header GIF">
 </p>
 
+<h2 align="center">
+    Hi 👋, I'm Mamuna 
+    </br> 
+    Software Engineer </br> CS <a align="center" href="https://www.ccny.cuny.edu/" target="_blank"> @CCNY </a>
+</h2>
 
-<div align="center">
-  <h1>Hi 👋, I'm Mamuna</h1>
-  <h3>Software Engineer </br> CS <a align="center" href="https://www.ccny.cuny.edu/" target="_blank"> @CCNY </a> </h3>
-</div>
 
 <!-- ABOUT ME -->
 ## <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f64c.gif" width="25" height="25"/> About Me
