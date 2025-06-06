@@ -35,7 +35,15 @@ Currently pursuing a B.S. in Computer Science, I focus on hands-on development a
   A full-stack web app to uncover real-time building complaints and violations for properties across NYC.  
   Transforms underutilized data from NYC Department of Building (DOB) into an intuitive, map-based interface using search filters for zip code, building identification number (BIN), and    address. Helps everyday New Yorkers, renters, and real estate professionals uncover hidden issues in all kinds of properties, ranging from residential, commercial and more.
   Promoting data transparency and smarter decision-making.
+making.
 
+- 💻 [**E-Bidding Platform**](https://github.com/MChaudhry9/ecom-bidding-csc322)
+  A secure online bidding platform where users can list items, place bids, and complete transactions.  
+  Built with multiple user roles (e.g., Registered Users, Super Users, VIPs) and includes features like bot-prevention, complaint handling, user ratings, and live bidding sessions. Designed to simulate real-world auction dynamics while maintaining data integrity and user accountability.
+
+- 🧠 [**Towers of Hanoi Visualizer**](https://github.com/MChaudhry9/Towers-of-Hanoi_Frontend_GUI)
+  A visual and interactive Python-based implementation of the classic recursive problem.  
+  Uses recursion to move disks between pegs while displaying each step in the terminal or GUI, making it easier for beginners to grasp recursion and problem-solving logic. Serves as both a learning tool and algorithm visualizer.
   
 #### Mamuna's Top Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MChaudhry9&layout=compact)  
