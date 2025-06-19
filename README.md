@@ -35,7 +35,6 @@ Currently pursuing a B.S. in Computer Science, I focus on hands-on development a
   A full-stack web app to uncover real-time building complaints and violations for properties across NYC.  
   Transforms underutilized data from NYC Department of Building (DOB) into an intuitive, map-based interface using search filters for zip code, building identification number (BIN), and    address. Helps everyday New Yorkers, renters, and real estate professionals uncover hidden issues in all kinds of properties, ranging from residential, commercial and more.
   Promoting data transparency and smarter decision-making.
-making.
 
 - 💻 [**SweBay: An E-Bidding Platform**](https://github.com/MChaudhry9/ecom-bidding-csc322) <br>
   A secure online bidding platform where users can list items, place bids, and complete transactions.  
