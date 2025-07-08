@@ -14,8 +14,8 @@
 Currently pursuing a B.S. in Computer Science, I focus on hands-on development and building tools that simplify tasks and create impact. I'm passionate about using data and technology to drive accessibility and social good. With experience in software engineering, data science, AI, and data-driven development, I enjoy creating meaningful, user-centered solutions. Always learning, always building.
 
 ➤ **Based In:** New York City  
-➤ Visit my [Website](http://mchaudhry.me)  
-➤ Look at my [Resume](https://drive.google.com/file/d/1QlYXyP2plSRK4PcjFOc154Dd4rj1njP2/view?usp=sharing)<br>
+➤ Visit my [Website](https://mamuna.vercel.app/) 
+➤ Look at my [Resume](https://mamuna.vercel.app/Mamuna_Chaudhry_Resume.pdf)<br>
 ➤ Check out my [LinkedIn](https://www.linkedin.com/in/mamuna-chaudhry/)  
 ➤ **Contact me:** [mamunachaudhry9@gmail.com](mailto:mamunachaudhry9@gmail.com)  
 
