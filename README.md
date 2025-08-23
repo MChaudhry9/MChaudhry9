@@ -11,7 +11,7 @@
 
 <!-- ABOUT ME -->
 ## <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f64c.gif" width="25" height="25"/> About Me
-Currently pursuing a B.S. in Computer Science, I focus on hands-on development and building tools that simplify tasks and create impact. I'm passionate about using data and technology to drive accessibility and social good. With experience in software engineering, data science, AI, and data-driven development, I enjoy creating meaningful, user-centered solutions. Always learning, always building.
+Currently pursuing a B.S. in Computer Science, I focus on hands-on development and building tools that simplify tasks and create impact. I'm passionate about using data and technology to drive accessibility and social good & enjoy creating meaningful, user-centered solutions. Always learning, always building.
 
 ➤ **Based In:** New York City  
 ➤ Visit my [Website](https://mamuna.vercel.app/) <br>
